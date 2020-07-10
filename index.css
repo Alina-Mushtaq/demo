@@ -11,12 +11,16 @@
   background-repeat: no-repeat;
 }
 
-.hero-tagline {
+#up {
   font-size: 3rem;
 }
 
+.hero-tagline {
+  font-size: 1rem;
+}
+
 .intro-icon {
-  font-size: 10rem;
+  font-size: 7rem;
   color: skyblue;
   margin: 0px auto;
 }
